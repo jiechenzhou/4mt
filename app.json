@@ -22,13 +22,13 @@
     "list":[{
       "pagePath":"pages/first/first",
       "iconPath":"imgs/dsk.png",
-      "selectedIconPath":"imgs/dsk_selected.png",
+      "selectedIconPath":"imgs/dsk2_selected.png",
       "text":"首页"
     },
     {
       "pagePath": "pages/music/music",
       "iconPath": "imgs/music.png",
-      "selectedIconPath": "imgs/music_selected.png",
+      "selectedIconPath": "imgs/music1_selected.png",
       "text": "音乐"
     },
     {
@@ -40,7 +40,7 @@
     {
       "pagePath": "pages/weather/weather",
       "iconPath": "imgs/cloud.png",
-      "selectedIconPath": "imgs/cloud_selected.png",
+      "selectedIconPath": "imgs/cloud1_selected.png",
       
       "text": "天气"
     },
