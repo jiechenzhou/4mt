@@ -1,0 +1,54 @@
+{
+  "pages":[
+    "pages/first/first",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/desk/desk",
+    "pages/user/user",
+    "pages/music/music",
+    "pages/weather/weather"
+    ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "color": "#515151",
+    "selectedColor":"#d4237a",
+    "borderStyle":"white",
+    "backgroundColor":"#F8F9F9",
+    "list":[{
+      "pagePath":"pages/first/first",
+      "iconPath":"imgs/dsk.png",
+      "selectedIconPath":"imgs/dsk_selected.png",
+      "text":"首页"
+    },
+    {
+      "pagePath": "pages/music/music",
+      "iconPath": "imgs/music.png",
+      "selectedIconPath": "imgs/music_selected.png",
+      "text": "音乐"
+    },
+    {
+      "pagePath":"pages/desk/desk",
+      "iconPath": "imgs/find.png",
+      "selectedIconPath": "imgs/find_selected.png",
+      "text":"发现"
+    },
+    {
+      "pagePath": "pages/weather/weather",
+      "iconPath": "imgs/cloud.png",
+      "selectedIconPath": "imgs/cloud_selected.png",
+      
+      "text": "天气"
+    },
+    {
+      "pagePath": "pages/user/user",
+      "iconPath": "imgs/user1.png",
+      "selectedIconPath": "imgs/user1_selected.png",
+      "text": "个人中心"
+    }]
+  }
+}
